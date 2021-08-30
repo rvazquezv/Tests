@@ -2,6 +2,9 @@ library(tidyverse)
 library(caret)
 library(data.table)
 
+
+https://filesharing.inditex.com/filesharing/ficheros/downloadFile?pFich=jYs2x8RpHsfzGSK9MdmNLLmRBceLH9b7H%2BQHrTLuGtk%3D
+
 head( all_genres_stats)
 
 
